@@ -1,4 +1,5 @@
-function myFunction(name, height, country) {
-    alert("Name: Karla"+ " , " + "Height: 5'4" + " , " +'Country: USA' );
-   
+function myFunction(name, height, country){
+alert(name + " " + height + " " + country); 
 }
+
+myFunction("Karla", "5'4", "USA");
